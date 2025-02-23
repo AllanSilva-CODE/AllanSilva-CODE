@@ -16,6 +16,10 @@
 <div align="center">  
 <a href="https://sites.google.com/view/portfolio-allan-alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Descrição da imagem" width="380">
+</div>
  
 ### Main skills:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
